@@ -1,0 +1,5 @@
+.container { width: 500px; margin: 0 auto; background-color: #636862; font-family: 'Raleway', sans-serif; text-align: center; color: white; }
+
+#draw-button { padding: 10px; background-color: #ABD0A2; font-size: 20px; border: none; width: 200px; margin-bottom: 10px; }
+
+#joke { background-color: #669E63; padding: 10px; }
